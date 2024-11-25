@@ -1,15 +1,15 @@
 import './App.css'
 
+
 function App() {
+  
  
   return (
     <>
-      <div>
-        App Component
-      </div>
-     
+    <h1>App Component</h1>
+    
     </>
-  )
+  );
 }
 
 export default App
